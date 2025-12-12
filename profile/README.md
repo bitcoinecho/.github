@@ -7,6 +7,4 @@
   - 🌐 [Website](https://bitcoinecho.org)
   - 📄 [Whitepaper](https://bitcoinecho.org/docs/whitepaper)
   - 📜 [Manifesto](https://bitcoinecho.org/docs/manifesto)
-  - 🐦 [Twitter](https://twitter.com/bitcoinechoorg)
-
-  **Status:** Phase 6 — Chain Selection (Phases 0-5 complete)
+  - |𝕏| [@bitcoinechoorg](https://x.com/bitcoinechoorg)
