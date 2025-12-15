@@ -89,4 +89,4 @@ What if we built software the way Bitcoin builds its chain? Append-only. Immutab
 
 ---
 
-*Bitcoin Echo: The Last Implementation*
+*Build once. Build right. Stop.*
