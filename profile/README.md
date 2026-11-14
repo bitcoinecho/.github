@@ -1,5 +1,8 @@
 <p align="center">
-  <img src="bitcoin-echo.png" alt="The Bitcoin Echo symbol above the words Bitcoin Echo" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bitcoinecho/.github/main/profile/share-dark.png">
+    <img src="https://raw.githubusercontent.com/bitcoinecho/.github/main/profile/share-light.png" alt="The Bitcoin Echo symbol above the words Bitcoin Echo, the line A Bitcoin full node written to be finished, and bitcoinecho.org" width="100%">
+  </picture>
 </p>
 
 **Bitcoin Echo is a Bitcoin full node written to be finished.**
